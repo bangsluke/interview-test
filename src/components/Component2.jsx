@@ -17,7 +17,7 @@ export default function MainCard() {
         minHeight: "30vh",
         color: "#FFFFFF",
         backgroundColor: "#282c34",
-        border: "1px solid",
+        border: "3px solid",
         borderColor: "#61dafb",
         ":hover": {
           boxShadow: "0 2px 14px 0 rgb(33 150 243 / 10%)",
