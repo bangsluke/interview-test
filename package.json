@@ -7,7 +7,7 @@
     "@emotion/styled": "^11.11.0",
     "@mui/icons-material": "^5.15.14",
     "@mui/material": "^5.15.2",
-    "@mui/system": "^5.15.11",
+    "@mui/system": "^5.15.14",
     "@mui/styled-engine": "^5.14.19",
     "@testing-library/jest-dom": "^6.4.2",
     "@testing-library/react": "^14.2.1",
